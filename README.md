@@ -11,5 +11,5 @@ If you want to learn open source by doing things, and you are interested in part
 
 **don't be shy, we encourage that people partner up, and we also promote that experience people play a mentor role so that others can grow as well**
 
-#### You can see the different roles in the GO!Commons canvas, where we lay out the different roles that can participate. If you think your role is not captured or expressed, also feel free to reach out. You can also select the one that you fill more close to and start learning and finding your own contributor profile along the way.
+#### You can see the different roles in the GO!Commons canvas, where we lay out the different roles that can participate. If you think your role is not captured or expressed, also feel free to reach out. You can also select the one that you fill more close to and start learning and finding your own contributor profile along the way.!!
 ![GO!Commons Canvas](OpenCanvas.png)
